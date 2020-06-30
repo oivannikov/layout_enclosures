@@ -2,6 +2,7 @@
 1. Replace `<your_account>` with your Github username in the links
     - [DEMO LINK](https://oivannikov.github.io/layout_enclosures/) <br>
     - [TEST REPORT LINK](https://oivannikov.github.io/layout_enclosures/report/html_report/)
+    - [PULL REQUESTS](https://github.com/mate-academy/layout_enclosures/pull/404)
 2. Follow [this instructions](https://mate-academy.github.io/layout_task-guideline/)
 ___
 
