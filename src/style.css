@@ -12,22 +12,21 @@ body {
 }
 
 .block {
-  box-sizing: border-box;
   padding: 10px;
   border: 1px solid #da5959;
 }
 
-.block__container {
+.block_container {
   background-color: #308dc0;
   width: 350px;
   margin-bottom: 40px;
 }
 
-.block__inner {
+.block_inner {
   background-color: #ffa500;
 }
 
-.block__text {
+.block_text {
   margin: 0;
   background-color: #ddd;
 }
